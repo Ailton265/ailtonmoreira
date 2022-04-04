@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ailtonmoreira/static/css/main.282870ff.css",
-    "main.js": "/ailtonmoreira/static/js/main.778afc50.js",
+    "main.css": "/ailtonmoreira/static/css/main.e7b28d02.css",
+    "main.js": "/ailtonmoreira/static/js/main.2bb86200.js",
     "static/js/787.c77e2eb1.chunk.js": "/ailtonmoreira/static/js/787.c77e2eb1.chunk.js",
     "static/media/perfil.jpg": "/ailtonmoreira/static/media/perfil.af3c99ca435198d6bfe5.jpg",
     "index.html": "/ailtonmoreira/index.html",
-    "main.282870ff.css.map": "/ailtonmoreira/static/css/main.282870ff.css.map",
-    "main.778afc50.js.map": "/ailtonmoreira/static/js/main.778afc50.js.map",
+    "main.e7b28d02.css.map": "/ailtonmoreira/static/css/main.e7b28d02.css.map",
+    "main.2bb86200.js.map": "/ailtonmoreira/static/js/main.2bb86200.js.map",
     "787.c77e2eb1.chunk.js.map": "/ailtonmoreira/static/js/787.c77e2eb1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.282870ff.css",
-    "static/js/main.778afc50.js"
+    "static/css/main.e7b28d02.css",
+    "static/js/main.2bb86200.js"
   ]
 }
