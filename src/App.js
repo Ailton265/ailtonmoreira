@@ -25,7 +25,7 @@ function App(props) {
 
             <div
                 className="my-2 animate-bounce hover:animate-ping text-indigo-500 hover:cursor-pointer capitalize hover:uppercase">
-                {`${t('welcome')}`}
+                {`${t('greats')}`}
             </div>
 
             <div className={"flex flex-row mx-auto"}>

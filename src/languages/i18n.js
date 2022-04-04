@@ -11,13 +11,13 @@ i18n
             en: {
                 translations: {
                     "welcome": "Welcome to Ailton Moreira web page",
-                    "great": "Coming very soon....",
+                    "greats": "Coming very soon...",
                 }
             },
             pt: {
                 translations: {
                     "welcome": "Bem-vindo à página do Ailton Moreira",
-                    "great": "Novidades em breve....",
+                    "greats": "Novidades em breve...",
                 }
             }
         },
