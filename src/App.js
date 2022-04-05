@@ -24,7 +24,13 @@ function App(props) {
 
     return (
         <div
-            className="w-full h-screen bg-gradient-to-r from-cyan-500 to-blue-500 bg-local flex flex-col mx-auto items-center justify-center align-middle">
+            className="w-full h-screen bg-gradient-to-r from-cyan-500 to-blue-500 bg-local flex flex-col mx-auto items-center justify-center align-middle"
+            style={{
+                backgroundImage: "url(" + require("./assets/bg-water.jpg") + ")",
+                backgroundSize: "100%",
+                backgroundRepeat: "no-repeat",
+                backgroundPosition: 'center'
+            }}>
             <Particles
                 id="tsparticles"
                 init={particlesInit}
@@ -107,8 +113,8 @@ function App(props) {
                 {`${t('welcome')}`}
             </p>
 
-            <div className="mx-auto w-48 h-auto my-10">
-                <img src={perfil} alt={"Logo"}/>
+            <div className="mx-auto w-48 h-96 my-10">
+                {/*<img src={perfil} alt={"Logo"}/>*/}
             </div>
 
             <div
