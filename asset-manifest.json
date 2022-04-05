@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/ailtonmoreira/static/css/main.7cbc940a.css",
-    "main.js": "/ailtonmoreira/static/js/main.06117190.js",
+    "main.css": "/ailtonmoreira/static/css/main.7ef157b9.css",
+    "main.js": "/ailtonmoreira/static/js/main.50dd9f25.js",
     "static/js/415.27afbc79.chunk.js": "/ailtonmoreira/static/js/415.27afbc79.chunk.js",
     "static/js/787.ed586351.chunk.js": "/ailtonmoreira/static/js/787.ed586351.chunk.js",
     "static/media/perfil.jpg": "/ailtonmoreira/static/media/perfil.af3c99ca435198d6bfe5.jpg",
+    "static/media/bg-water.jpg": "/ailtonmoreira/static/media/bg-water.31705cf3c96b74c88264.jpg",
     "index.html": "/ailtonmoreira/index.html",
-    "main.7cbc940a.css.map": "/ailtonmoreira/static/css/main.7cbc940a.css.map",
-    "main.06117190.js.map": "/ailtonmoreira/static/js/main.06117190.js.map",
+    "main.7ef157b9.css.map": "/ailtonmoreira/static/css/main.7ef157b9.css.map",
+    "main.50dd9f25.js.map": "/ailtonmoreira/static/js/main.50dd9f25.js.map",
     "415.27afbc79.chunk.js.map": "/ailtonmoreira/static/js/415.27afbc79.chunk.js.map",
     "787.ed586351.chunk.js.map": "/ailtonmoreira/static/js/787.ed586351.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cbc940a.css",
-    "static/js/main.06117190.js"
+    "static/css/main.7ef157b9.css",
+    "static/js/main.50dd9f25.js"
   ]
 }
