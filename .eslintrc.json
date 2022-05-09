@@ -1,0 +1,14 @@
+{
+  "plugins": ["react"],
+  "extends": ["prettier"],
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": true,
+    "ecmaFeatures": {
+      "jsx": true,
+      "ecmaVersion": 5
+    }
+
+  }
+}
